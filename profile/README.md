@@ -13,8 +13,7 @@ Agreements zur Umsetzung einiger Kernelemente sind in folgender [Diskussion](htt
 
 ## Roadmap
 
-- Will follow
-
+Die Roadmap mit den entsprechenden Iterationen ist [hier](https://github.com/orgs/wwi21seb-projekt/projects/4/views/1) festgehalten.
 
 ## Documentation
 
