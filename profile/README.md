@@ -19,7 +19,7 @@ Die Roadmap mit den entsprechenden Iterationen ist [hier](https://github.com/org
 
 - [Server Alpha](https://github.com/wwi21seb-projekt/server-alpha/tree/main/docs)
 - [Server Beta](https://github.com/wwi21seb-projekt/documentation-server-beta)
-- [Client Breta](https://github.com/wwi21seb-projekt/Breta)
+- [Client Breta](https://github.com/wwi21seb-projekt/Breta/tree/main/docs)
 - [Client BubbleMatee](https://github.com/wwi21seb-projekt/Documentation_Client_BubbleMatee)
 - [Client Schnatter](https://github.com/wwi21seb-projekt/Dokumentation_Client_Schnatter)
 
